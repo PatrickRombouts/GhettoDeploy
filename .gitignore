@@ -1,0 +1,12 @@
+.idea/.name
+.idea/anb5web.git.iml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/scopes/scope_settings.xml
+.idea/vcs.xml
+.idea/webResources.xml
+.idea/workspace.xml
+.idea/
+backup/*
+deploy/*
